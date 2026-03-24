@@ -1,6 +1,6 @@
 # RishavOS
 
-A colorful, keyboard-driven terminal UI for setting up a fresh macOS machine with Homebrew — all in a single zsh script.
+A colorful, keyboard-driven terminal UI for setting up a fresh macOS machine with Homebrew — all in a single zsh script. Fully made with Claude Code Sonnet 4.6.
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -9,6 +9,9 @@ A colorful, keyboard-driven terminal UI for setting up a fresh macOS machine wit
 ║              Enter to install · Q to quit                    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+> [!WARN] THIS IS NOT POLISHED
+> It is a bit laggy, I know! It was fully vibe coded with Claude without any modifications.
 
 ## Features
 
