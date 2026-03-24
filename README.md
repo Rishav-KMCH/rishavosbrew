@@ -196,22 +196,6 @@ Launch the script and use the keyboard to navigate:
 
 </details>
 
-## Adding Your Own Packages
-
-Open `rishavos.sh` and add a line to the `PKGS` array:
-
-```bash
-"formula|Display Name|cask(0/1)|Description|Category"
-```
-
-For example:
-```bash
-"neofetch|Neofetch|0|System info tool|CLI Utils"
-"figma|Figma|1|Collaborative design tool|Productivity"
-```
-
-Use `1` for cask installs, `0` for regular formula installs.
-
 ## License
 
-MIT
+[MIT](/LICENSE)
