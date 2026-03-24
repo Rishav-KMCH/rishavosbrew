@@ -23,7 +23,7 @@ A colorful, keyboard-driven terminal UI for setting up a fresh macOS machine wit
 
 ## Requirements
 
-- macOS
+- macOS (best recommended)
 - [Homebrew](https://brew.sh) already installed
 - zsh (default shell on macOS since Catalina)
 
