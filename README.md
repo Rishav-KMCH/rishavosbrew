@@ -11,6 +11,7 @@ A colorful, keyboard-driven terminal UI for setting up a fresh macOS machine wit
 ```
 
 > [!WARN] THIS IS NOT POLISHED
+> 
 > It is a bit laggy, I know! It was fully vibe coded with Claude without any modifications.
 
 ## Features
